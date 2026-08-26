@@ -18,6 +18,6 @@ Python | HTML | CSS | JavaScript | C | C++
 
 ## Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/mridul-kesarwani-2a7417347/
-Portfolio: https://dflb6veymwofrvuewcg4.codedex.me
-GitHub: https://github.com/Mridulkiyotaka22/
+- LinkedIn: https://www.linkedin.com/in/mridul-kesarwani-2a7417347/
+- Portfolio: https://dflb6veymwofrvuewcg4.codedex.me
+- GitHub: https://github.com/Mridulkiyotaka22/
